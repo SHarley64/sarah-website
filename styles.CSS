@@ -1,8 +1,9 @@
 body {
-    background: rgb(72, 22, 47);
+    background: rgb(255, 255, 255);
     padding: 3em;
+    font-family: 'Lato', sans-serif;
     font-family: 'Unbounded', cursive;
-}
+    
 @import url('https://fonts.googleapis.com/css?family=Poppins:400');
 
 html {font-size: 100%;} /*16px*/
@@ -38,3 +39,4 @@ h4 {font-size: 1.777rem;}
 h5 {font-size: 1.333rem;}
 
 small, .text_small {font-size: 0.75rem;}
+}
