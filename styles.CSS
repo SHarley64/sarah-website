@@ -3,6 +3,7 @@ body {
     padding: 3em;
     font-family: 'Lato', sans-serif;
     font-family: 'Unbounded', cursive;
+    align-items: center;
     
 @import url('https://fonts.googleapis.com/css?family=Poppins:400');
 
@@ -39,4 +40,13 @@ h4 {font-size: 1.777rem;}
 h5 {font-size: 1.333rem;}
 
 small, .text_small {font-size: 0.75rem;}
+.skills <div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
 
+.learned {display: grid; 
+  grid-template-columns: 1fr 1fr;}
+
+.skills-learned{ display: block;}
+.awards-given { display: block;}
